@@ -1,0 +1,1 @@
+# vertx-canary-sqs-consumer
